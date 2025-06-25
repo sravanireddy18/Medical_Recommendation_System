@@ -28,6 +28,10 @@ The app is designed to be simple, user-friendly, and informative for early healt
 
 ---
 
+## Here i am uploading the Hugging Face Link: https://huggingface.co/spaces/sravani1810/Medical_Recommendation_System
+
+## You can click the Link and use it 
+
 ## 🚀 Run Locally
 
 ```bash
